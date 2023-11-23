@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.divbody {
+    width: 100px;
+    height: 1000px;
+    margin: 10px;
+    border: 5px;
+    padding: 5px;
+    background-color: rgb(179, 179, 215);
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(assets/img/sfondo.png);
+}
+
+.headers {
+    width: 100%;
+    height: 100px;
+    margin-top: 0px;
+    background-color: rgb(86, 86, 194);
+}
+
+.logos {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.epicode {
+    text-align: center;
+    font-size: 5px;
+    margin-left: auto;
+    display: block;
+    color: white;
+}
+
+.home {
+    text-align: center;
+    color: white;
+    font-size: 5px;
+    margin-top: 5px;
+}
+
+.mains {
+ width: 100px;
+ height: 700px;
+ background-color: white;
+ margin-top: 10px;
+}
+
+h1 {
+    font-size: 10px;
+    color: black;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+p {
+    font-size: 5px;
+}
+
+.ul {
+    font-size: 5px;
+    margin-top: 5px;
+
+}
+
+.table {
+    font-size: 10px;
+    width: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.video {
+    width: 100px;
+    height: 100px;
+}
+
+h3 {
+    font-size: 10px;
+}
+.footers {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(113, 113, 255);
+    margin-top: 10px;
+}
